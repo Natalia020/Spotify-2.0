@@ -1,1 +1,1 @@
-# Spotify-2.0
+Spotify clone created with Next.js
